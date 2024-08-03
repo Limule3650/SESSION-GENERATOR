@@ -64,10 +64,10 @@ router.get('/', async (req, res) => {
 ______________________________________
 ╔════𑁍
 ║ *『AMAZING YOU'VE CHOSEN WASI MD』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+║ _._
 ╚════════════════════════╝
 ╔═════𑁍
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║  『•• 助けを求めて訪問する ••』
 ║❒ *Ytube:* _youtube.com/@wasitech1
 ║❒ *Owner:* _https://wa.me/message/THZ3I25BYZM2E1_
 ║❒ *Repo:* _https://github.com/wasixd/WASI-MD_
