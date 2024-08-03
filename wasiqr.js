@@ -63,17 +63,17 @@ router.get('/', async (req, res) => {
 *_Made With ❤️_*
 ______________________________________
 ╔════𑁍
-║ *『AMAZING YOU'VE CHOSEN WASI MD』*
-║ _._
+║ *『𖣘MASTER YOU'VE CHOOSE RAPHAEL-MD-V2𖣘』*
+║ __REMARK: You've completed the first part for you to have RAPHAEL-MD-V2, THANKS!._
 ╚════════════════════════╝
 ╔═════𑁍
 ║  『•• 助けを求めて訪問する ••』
-║❒ *Ytube:* _youtube.com/@wasitech1
-║❒ *Owner:* _https://wa.me/message/THZ3I25BYZM2E1_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD_
-║❒ *WaGroup:* _https://chat.whatsapp.com/FF6YuOZTAVB6Lu65cnY5BN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j_
-║❒ *Plugins:* _https://github.com/Itxxwasi 
+║❒ *Ytube:* _youtube.com/@Darklimule
+║❒ *Owner:* _https://wa.me/+237698581946/hello+RAPHAEL-MD-V2+dev_
+║❒ *Repo:* _https://github.com/Limule3650/RAPHAEL-MD-V2_
+║❒ *WaGroup:* _https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l_
+║❒ *Plugins:* _https://github.com/Limule3650 
 ╚════════════════════════╝
 _____________________________________
 	
