@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by WASI TECH*
-*_Made With 🤍_*
+*_Pair Code Connected by RAPHAËL-MD TECH*
+*_Made With ❤️_*
 ______________________________________
-╔════◇
-║ *『 WOW YOU'VE CHOSEN WASI MD 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+╔════𑁍
+║ *『 𖣘MASTER YOU'VE CHOOSE RAPHAEL-MD-V2𖣘 』*
+║ _REMARK: You've completed the first part for you to have RAPHAEL-MD-V2, THANKS!._
 ╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
-║❒ *Owner:* _https://wa.me/923192173398_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+╔═════𑁍
+║  『✵•✵• 助けを求めて訪問する •✵•✵』
+║❒ *Ytube:* _youtube.com/@Darklimule_
+║❒ *Owner:* _https://wa.me/237698581946_
+║❒ *Repo:* _https://github.com/Limule3650/RAPHAEL-MD-V2
+║❒ *WaGroup:* _https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l
+║❒ *Plugins:* _https://github.com/Limule3650/RAPHAEL-MD-V2-PLUGINS_
 ╚════════════════════════╝
 _____________________________________
 
